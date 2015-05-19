@@ -1,0 +1,12 @@
+#Greetr
+
+#Requirements:
+1. When given a first name, a last name, and an optional language, it generates formal and informal greetings.
+
+2. Supports English and Spanish.
+
+3. Reusable library/framework: wont interfere with any other JavaScript code in the app.
+
+4. EAsy to type 'G$()' structure.
+
+5. Supports JQuery.
